@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marine Le Morvan"
 title_separator          : "-"
 name                     : &name "Marine Le Morvan"
-description              : &description "Postdoctoral researcher"
+description              : &description "Postdoctoral Research Fellow"
 url                      : https://marinelm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marinelm.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marine Le Morvan"
   avatar           : "horse_drawing.jpeg"
-  bio              : "Postdoctoral researcher"
+  bio              : "Postdoctoral Research Fellow"
   location         : "INRIA Saclay"
   employer         :
   pubmed           :
