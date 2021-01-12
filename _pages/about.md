@@ -10,10 +10,10 @@ redirect_from:
 
 Welcome to my home page!
 
-I am a Postdoctoral researcher at INRIA in the Parietal team, working on supervised learning with missing values, with [http://gael-varoquaux.info](Gaël Varoquaux), [http://juliejosse.com](Julie Josse) and [https://erwanscornet.github.io/](Erwan Scornet).
+I am a Postdoctoral researcher at INRIA in the Parietal team, working on supervised learning with missing values, with [Gaël Varoquaux](http://gael-varoquaux.info), [Julie Josse](http://juliejosse.com) and [Erwan Scornet](https://erwanscornet.github.io/).
 
-I did my PhD at Mines ParisTech and Institut Curie under the supervision of [http://members.cbio.mines-paristech.fr/~jvert/](Jean-Philippe Vert) and [https://auranic.github.io/](Andrei Zinovyev). My PhD aimed at developing new representations and efficient algorithms for machine learning on genomic data.
+I did my PhD at Mines ParisTech and Institut Curie under the supervision of [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) and [Andrei Zinovyev](https://auranic.github.io/). My PhD aimed at developing new representations and efficient algorithms for machine learning on genomic data.
 
-For more information, here are a long CV and a short CV.
+Here are my long CV and short CV.
 
-Contact: marine.le-morvan@inria.fr
+**Contact**: marine.le-morvan@inria.fr
