@@ -14,6 +14,4 @@ I am a Postdoctoral researcher at INRIA in the Parietal team, working on supervi
 
 I did my PhD at Mines ParisTech and Institut Curie under the supervision of [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) and [Andrei Zinovyev](https://auranic.github.io/). My PhD aimed at developing new representations and efficient algorithms for machine learning on genomic data.
 
-Here are my long CV and short CV.
-
-**Contact**: marine.le-morvan@inria.fr
+Here is [my CV](/files/CV_long_english.pdf).
