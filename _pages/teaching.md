@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Teaching 
-**Deep Learning**, *Fall 2020, 20h.*  
+**Deep Learning**, *Fall 2020, 21h.*  
 *Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
 Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.
 
-**Datascience Starter Program**, 25h*  
+**Datascience Starter Program**, *2020, 25h.*  
 *Ecole Polytechnique Executive Education*  
 This program introduces machine learning and data science for professionals.  
-Covered sessions on: linear and logistic regression, introduction to Python and Pandas.
+Covered sessions on: Linear and logistic regression, Introduction to Python and Pandas.
