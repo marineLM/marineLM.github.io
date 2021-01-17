@@ -22,7 +22,7 @@ Luminy, March 2020.
 **Cancer stratification and prognosis from mutations using gene networks.**  
 *IN2P3 laboratory.*  
 Orsay, Nov. 2019.  
-[slides](files/20191126_LAL.pdf)
+[slides](/files/20191126_LAL.pdf)
 
 **Learning from genomic data: efficient representations and algorithms.**  
 *PhD defense*  
