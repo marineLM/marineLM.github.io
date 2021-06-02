@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## Publications
+
+**What's a good imputation to predict with missing values?**  
+Marine Le Morvan, Julie Josse, Erwan Scornet, Gaël Varoquaux  
+*Preprint*  
+[paper](https://arxiv.org/pdf/2106.00311.pdf)
+
 **NeuMiss networks: differentiable programming for supervised learning with missing values.**  
 Marine Le Morvan, Julie Josse, Thomas Moreau, Erwan Scornet, Gaël Varoquaux  
 *In Advances in Neural Information Processing Systems (NeurIPS 2020)*  
