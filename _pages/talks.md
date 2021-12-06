@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+**What’s a good imputation to predict with missing values?**
+*INRIA Datashape seminar*
+Orsay, Oct. 2021.
+[slides](/files/20201014_Datashape_Neurips2021.pdf)
+
 **NeuMiss networks: differentiable programming for supervised learning with missing values.**  
 *University of Montpellier.*  
 Montpellier, Dec. 2020.  

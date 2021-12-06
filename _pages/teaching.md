@@ -9,7 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching 
+## 2021 
+
+**Machine Learning**, *Winter 2021, 21h.*  
+*Master X-HEC.*  
+
+**Deep Learning**, *Fall 2021, 27h.*  
+*Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
+Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.
+
+## 2020
+
 **Deep Learning**, *Fall 2020, 21h.*  
 *Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
 Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.

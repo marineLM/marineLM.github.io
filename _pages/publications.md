@@ -13,6 +13,8 @@ author_profile: true
 Marine Le Morvan, Julie Josse, Erwan Scornet, Gaël Varoquaux  
 *Preprint*  
 [paper](https://arxiv.org/pdf/2106.00311.pdf)
+[code](https://github.com/marineLM/Impute_then_Regress)
+[poster](/files/Neurips2021_poster.pdf)
 
 **NeuMiss networks: differentiable programming for supervised learning with missing values.**  
 Marine Le Morvan, Julie Josse, Thomas Moreau, Erwan Scornet, Gaël Varoquaux  
