@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my home page!
 
 I am an INRIA Junior Researcher (chargée de recherche) in the SODA team at INRIA Saclay.
-My main reseach area is Machine Learning, and in particular learning with incomplte data.
+My main reseach area is Machine Learning, and in particular learning with incomplete data.
 I am a science enthusiast, interested in the application of Machine Learning in various
 scientific domains as well as in the health domain.
 
