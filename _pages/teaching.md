@@ -9,22 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+## 2024
+**Refresher: Linear Algebra, Differential calculus, Statistics, Probabilities**, *15h.*  
+*Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
+
+**Deep Learning**, *21h.*  
+*Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
+Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.
+
+## 2023
+**Refresher: Linear Algebra, Differential calculus, Statistics, Probabilities**, *15h.*  
+*Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
+
+## 2022
+**Machine Learning**, *21h.*  
+*Data Science and AI for Business X-HEC Master, Ecole Polytechnique.*  
+
+**Deep Learning**, *27h.*  
+*Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
+Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.
+
 ## 2021 
+**Machine Learning**, *21h.*  
+*Data Science and AI for Business X-HEC Master, Ecole Polytechnique.*  
 
-**Machine Learning**, *Winter 2021, 21h.*  
-*Master X-HEC.*  
-
-**Deep Learning**, *Fall 2021, 27h.*  
+**Deep Learning**, *27h.*  
 *Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
 Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.
 
 ## 2020
-
-**Deep Learning**, *Fall 2020, 21h.*  
+**Deep Learning**, *21h.*  
 *Master of Artificial Intelligence and Advanced Visual Computing, Ecole Polytechnqiue.*  
 Neural networks, PyTorch, CNNs, RNNs, autoencoders, GANs, VAEs.
 
-**Datascience Starter Program**, *2020, 25h.*  
+**Datascience Starter Program**, *25h.*  
 *Ecole Polytechnique Executive Education*  
 This program introduces machine learning and data science for professionals.  
 Covered sessions on: Linear and logistic regression, Introduction to Python and Pandas.

@@ -9,16 +9,35 @@ author_profile: true
 
 ## Publications
 
+**Imputation for prediction: beware of diminishing returns.**   
+ Marine Le Morvan, Gaël Varoquaux  
+ *In arXiv preprint arXiv:2407.19804 (2024)*
+
+**BOOM! Tephrochronological dataset and exploration tool of the Southern (33--46° S) and Austral (49--55° S) volcanic zones of the Andes.**   
+Consuelo Martínez Fontaine, Vanessa Peña-Araya, Chiara Marmo, Marine Le Morvan, Guillaume Delpech, Karen Fontijn, Giuseppe Siani, Lucile Cosyn-Wexsteen  
+ *In Quaternary Science Reviews (2023)*
+ [paper](https://www.sciencedirect.com/science/article/pii/S0277379123003025)
+
+**Beyond calibration: estimating the grouping loss of modern neural networks.**.  
+ Alexandre Perez-Lebel, Marine Le Morvan, Gaël Varoquaux  
+ *In International Conference on Learning Representations (ICLR 2022)*
+ [paper](https://openreview.net/pdf?id=6w1k-IixnL8)
+
+**Benchmarking missing-values approaches for predictive models on health databases.**   
+Alexandre Perez-Lebel, Gaël Varoquaux, Marine Le Morvan, Julie Josse, Jean-Baptiste Poline  
+*In GigaScience (2022)*
+[paper](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac013/6568998)
+
 **What's a good imputation to predict with missing values?**  
 Marine Le Morvan, Julie Josse, Erwan Scornet, Gaël Varoquaux  
-*Preprint*  
+ *In Advances in Neural Information Processing Systems (Neurips 2021 spotlight)*
 [paper](https://arxiv.org/pdf/2106.00311.pdf)
 [code](https://github.com/marineLM/Impute_then_Regress)
 [poster](/files/Neurips2021_poster.pdf)
 
 **NeuMiss networks: differentiable programming for supervised learning with missing values.**  
 Marine Le Morvan, Julie Josse, Thomas Moreau, Erwan Scornet, Gaël Varoquaux  
-*In Advances in Neural Information Processing Systems (NeurIPS 2020)*  
+*In Advances in Neural Information Processing Systems (NeurIPS 2020 oral)*  
 [paper](https://papers.nips.cc/paper/2020/file/42ae1544956fbe6e09242e6cd752444c-Paper.pdf)
 [code](https://github.com/marineLM/NeuMiss)
 [poster](/files/Neurips2020_poster.pdf)
