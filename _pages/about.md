@@ -10,8 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am an INRIA Researcher (Chargée de Recherche) in Machine Learning in the [SODA](https://team.inria.fr/soda/) team.
-My research addresses the challenge of learning with incomplete data, a challenging and pervasive issue across fields like healthcare and social sciences. My research also foucses on model auditing to ensure trust and reliability in machine learning systems. I’m passionate about harnessing the power of AI to solve complex problems, particularly in scientific fields and healthcare.
+I'm a Research Scientist (Chargée de Recherche) in Machine Learning at INRIA, within the SODA team. My work tackes learning from incomplete data, a common issue affecting fields like healthcare and social sciences. I also focus on model auditing to enhance trust and reliability in machine learning models. I'm passionate about leveraging AI to solve complex problems, particularly in sciences and healthcare.
 
 Until October 2021, I was a postdoctoral researcher in the Parietal team at INRIA
 where I worked on supervised learning with missing values, with [Gaël Varoquaux](http://gael-varoquaux.info), [Julie Josse](http://juliejosse.com) and [Erwan Scornet](https://erwanscornet.github.io/).
