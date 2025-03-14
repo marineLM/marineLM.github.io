@@ -9,9 +9,20 @@ author_profile: true
 
 ## Publications
 
+**TabICL: A Tabular Foundation Model for In-Context Learning on Large Data**  
+Jingang Qu, David Holzmüller, Gaël Varoquaux, Marine Le Morvan  
+*Under review*
+[paper](https://arxiv.org/abs/2502.05564)
+
+**Decision from Suboptimal Classifiers: Excess Risk Pre-and Post-Calibration**  
+Alexandre Perez-Lebel, Gaël Varoquaux, Sanmi Koyejo, Matthieu Doutreligne, Marine Le Morvan  
+*In Artificial Intelligence and Statistics (AISTATS 2025)*
+[paper](https://hal.science/hal-04987054)
+
 **Imputation for prediction: beware of diminishing returns.**   
  Marine Le Morvan, Gaël Varoquaux  
- *In arXiv preprint arXiv:2407.19804 (2024)*
+*In International Conference on Learning Representations (ICLR 2025 spotlight)*
+[paper](https://arxiv.org/abs/2407.19804)
 
 **BOOM! Tephrochronological dataset and exploration tool of the Southern (33--46° S) and Austral (49--55° S) volcanic zones of the Andes.**   
 Consuelo Martínez Fontaine, Vanessa Peña-Araya, Chiara Marmo, Marine Le Morvan, Guillaume Delpech, Karen Fontijn, Giuseppe Siani, Lucile Cosyn-Wexsteen  
